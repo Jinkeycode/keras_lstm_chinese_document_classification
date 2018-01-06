@@ -1,0 +1,6 @@
+keras
+jieba
+h5py
+numpy
+tensorflow
+sklearn
